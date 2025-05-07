@@ -1,0 +1,2 @@
+// scirpt that creates or uses the database my-dbs
+use my_db
